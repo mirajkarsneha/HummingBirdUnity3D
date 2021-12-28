@@ -1,2 +1,2 @@
-# HimmingBird
+# HummingBird
 Humming Bird Assignment
